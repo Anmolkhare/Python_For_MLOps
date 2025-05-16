@@ -1,0 +1,13 @@
+prefix=/Users/anmolkhare/Documents/Mlops/MLOps_Coding/venv
+exec_prefix=/Users/anmolkhare/Documents/Mlops/MLOps_Coding/venv
+libdir=/Users/anmolkhare/Documents/Mlops/MLOps_Coding/venv/lib
+sharedlibdir=/Users/anmolkhare/Documents/Mlops/MLOps_Coding/venv/lib
+includedir=/Users/anmolkhare/Documents/Mlops/MLOps_Coding/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
