@@ -109,16 +109,30 @@ Python_For_MLOps/
 </p>
 
 ---
+## 👨‍💻 About Me
 
-## 🙋🏻‍♂️ About Me
+Hey there! I'm Anmol Khare — a passionate MLOps Engineer with 5+ years of experience in designing, building, and deploying scalable machine learning systems.
 
-Hey there! I'm Anmol Khare — a Data Engineer passionate about building scalable pipelines and automating data workflows.
+🚀 I specialize in:
+- Automating data workflows & model lifecycles
+- Orchestrating pipelines using Airflow & CI/CD tools
+- Building robust, production-ready ML infrastructure
 
-📫 Reach out:
+📊 My toolkit includes:
+- Python | Bash | SQL
+- Docker | Kubernetes | Terraform
+- MLflow | Airflow | FastAPI | Flask
+- AWS | GCP | Azure
+- Git | GitHub Actions | Jenkins
 
-* 🌐 LinkedIn: [https://www.linkedin.com/in/anmol-khare-2794bb19b/](https://www.linkedin.com/in/anmol-khare-2794bb19b/)
-* 📧 Email: [anmolkhare12@outlook.com](mailto:anmolkhare12@outlook.com)
-* 🛠 Fiverr: [Check My Services](https://www.fiverr.com/anmolkhare)
+🎯 I’m driven by a love for solving real-world problems at scale using data, automation, and cloud-native technologies.
+
+🔗 Connect with me:
+- 💼 LinkedIn: [Anmol Khare](https://www.linkedin.com/in/anmol-khare-2794bb19b/)
+- 📫 Email: anmolkhare12@outlook.com
+- 🌐 Portfolio: Coming soon!
+
+✨ Let’s build something awesome together!
 
 ---
 
